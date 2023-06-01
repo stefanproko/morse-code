@@ -1,0 +1,58 @@
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.exe
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.deps.json
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.runtimeconfig.json
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.dll
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.pdb
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.csproj.AssemblyReference.cache
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse_Code.Form1.resources
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.csproj.GenerateResource.cache
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.AssemblyInfoInputs.cache
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.AssemblyInfo.cs
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.dll
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\refint\Morse Code.dll
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.pdb
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.genruntimeconfig.cache
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\ref\Morse Code.dll
+C:\Users\Lenovo T460P\source\repos\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse_Code.Properties.Resources.resources
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.exe
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.deps.json
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.runtimeconfig.json
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.dll
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.pdb
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.csproj.AssemblyReference.cache
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse_Code.Form1.resources
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse_Code.Properties.Resources.resources
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.csproj.GenerateResource.cache
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.AssemblyInfoInputs.cache
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.AssemblyInfo.cs
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.dll
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\refint\Morse Code.dll
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.pdb
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.genruntimeconfig.cache
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\ref\Morse Code.dll
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\dot.wav
+C:\Users\Lenovo T460P\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\line.wav
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\dot.wav
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\line.wav
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.exe
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.deps.json
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.runtimeconfig.json
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.dll
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\bin\Debug\net6.0-windows\Morse Code.pdb
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.csproj.AssemblyReference.cache
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse_Code.Form1.resources
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse_Code.Properties.Resources.resources
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.csproj.GenerateResource.cache
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.AssemblyInfoInputs.cache
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.AssemblyInfo.cs
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.csproj.CoreCompileInputs.cache
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.dll
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\refint\Morse Code.dll
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.pdb
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\Morse Code.genruntimeconfig.cache
+C:\Users\STEFAN\OneDrive\Desktop\Morse Code\Morse Code\obj\Debug\net6.0-windows\ref\Morse Code.dll
